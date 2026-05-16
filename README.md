@@ -10,4 +10,4 @@
 [![Watch Variables](https://img.youtube.com/vi/2QgweEHlj60/0.jpg)](https://youtu.be/2QgweEHlj60)
 [![Watch Conditional](https://img.youtube.com/vi/53GY9b7MLTc/0.jpg)](https://youtu.be/53GY9b7MLTc)
 [![Watch If Else](https://img.youtube.com/vi/_eapnAO7-rA/0.jpg)](https://youtu.be/_eapnAO7-rA)
-[![Watch If Else](https://img.youtube.com/vi/FcbDfiOwQcw.jpg)](https://youtu.be/FcbDfiOwQcw)
+[![Watch If Else](https://img.youtube.com/vi/FcbDfiOwQcw/0.jpg)](https://youtu.be/FcbDfiOwQcw)
